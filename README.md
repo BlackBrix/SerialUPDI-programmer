@@ -15,6 +15,7 @@ what the SerialUPDI approach is all about, and why it is the successor to jtag2U
 </ul>
 
 <hr>  
+<img src="pics/pic3.jpg" />
 <h3>What is it?</h3>
 <p>The MCUdude SerialUPDI programmer is a tiny programmer for use with <em>any</em> AVR that has a UPDI programming interface. It can also be used as a standard USB to serial adapter for easy serial debugging.</p>
 <h3>Why did you make it?</h3>
@@ -134,3 +135,10 @@ what the SerialUPDI approach is all about, and why it is the successor to jtag2U
 <li><code>-qq</code> mutes all output.</li>
 <li><code>-t</code> enters terminal mode, where all memories can be read and written to at a byte level</li>
 </ul>
+<hr>
+<img src="pics/pic1.jpg" />
+<img src="pics/pic2.jpg" />
+<img src="pics/pic3.jpg" />
+<img src="pics/pic4.jpg" />
+<img src="pics/pic5.png" />
+<img src="pics/SerialUPDI_R1_Schematic.png" />
