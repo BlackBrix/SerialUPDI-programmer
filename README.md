@@ -6,7 +6,7 @@ A convenient UPDI programmer with automatic UART / UPDI selection Designed by [M
 <h4>What is it?</h4>
 <p>The MCUdude SerialUPDI programmer is a tiny programmer for use with <em>any</em> AVR that has a UPDI programming interface. It can also be used as a standard USB to serial adapter for easy serial debugging.</p>
 <h3>Why did you make it?</h3>
-<p>I made this board because there doesn't exist a SerialUPDI-based programmer that can automatically switch between UART and UPDI mode. It's also very convenient that the board can supply either 3.3V or 5V to the target. Unlike the <a href="https://www.tindie.com/products/mcudude/microupdi-programmer/">microUPDI programmer</a>, this programmer supports the AVR-DA, AVR-DB, and AVR-DD series as well. It's also significantly faster than the microUPDI.</p>
+<p>I made this board because there doesn't exist a SerialUPDI-based programmer that can automatically switch between UART and UPDI mode. It's also very convenient that the board can supply either 3.3V or 5V to the target. Unlike the <a href="https://github.com/MCUdude/microUPDI">microUPDI programmer</a>, this programmer supports the AVR-DA, AVR-DB, and AVR-DD series as well. It's also significantly faster than the microUPDI.</p>
 <h3>What makes it special?</h3>
 <ul>
 <li>Versatile programmer that supports all AVRs that can be programmed using UPDI</li>
@@ -55,7 +55,7 @@ A convenient UPDI programmer with automatic UART / UPDI selection Designed by [M
 </table>
 <p>When using the SerialUPDI programmer with the PlatformIO serial monitor, please add the following snippet to your platformio.ini file. (I have no idea why their serial monitor, Miniterm, believes the RTS pin actually is DTR, but it works!)</p>
 <p><code>monitor_dtr = 0</code></p>
-<h3>Differences between microUPDI and SerialUPDI</h3>
+<h3>Differences between <a href="https://github.com/MCUdude/microUPDI">microUPDI</a> and SerialUPDI</h3>
 <table>
 <thead>
 <tr>
