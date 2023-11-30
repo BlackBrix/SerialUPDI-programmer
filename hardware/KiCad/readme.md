@@ -1,1 +1,1 @@
-KiCad Hardware Files coming soon (schematic and PCB) ..
+KiCad hardware files coming soon (schematic and PCB) ..
