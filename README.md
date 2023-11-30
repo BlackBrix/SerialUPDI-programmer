@@ -1,9 +1,21 @@
 # SerialUPDI-programmer
 A convenient UPDI programmer with automatic UART / UPDI selection Designed by [MCUdude](https://github.com/MCUdude) in Norway  
 (you can buy it here: https://www.tindie.com/products/mcudude/serialupdi-programmer)  
+<hr>  
+There are also other approaches to realising a SerialUPDI adapter, like e.g.:<br>  
+<ul><li><a href="https://github.com/BlackBrix/AVR-Programmer/tree/master/SerialUPDI_Programmer">SerialUPDI-Programmer</a></li>  
+<li><a href="https://github.com/BlackBrix/AVR-Programmer/tree/master/SerialUPDI_HV_Programmer">SerialUPDI-HV-Programmer</a></li>
+<li><a href="https://github.com/BlackBrix/tinyUPDI">tinyUPDI</a></li>
+<li><a href="https://github.com/BlackBrix/UPDI-USB-SERIAL">UPDI-USB-SERIAL</a></li>
+</ul>
+what the SerialUPDI approach is all about, and why it is the successor to jtag2UPDI:<br>
+<ul><li><a href="https://github.com/SpenceKonde/AVR-Guidance/blob/master/UPDI/jtag2updi.md">SerialUPDI</a></li>
+<li><a href="https://teddywarner.org/Projects/SerialUPDI/#serial-programming">Serial programming</a></li>
+<li><a href="https://teddywarner.org/Projects/SerialUPDI/#programmer-usage">Programmer Usage (with the arduino IDE)</a></li>
+</ul>
 
 <hr>  
-<h4>What is it?</h4>
+<h3>What is it?</h3>
 <p>The MCUdude SerialUPDI programmer is a tiny programmer for use with <em>any</em> AVR that has a UPDI programming interface. It can also be used as a standard USB to serial adapter for easy serial debugging.</p>
 <h3>Why did you make it?</h3>
 <p>I made this board because there doesn't exist a SerialUPDI-based programmer that can automatically switch between UART and UPDI mode. It's also very convenient that the board can supply either 3.3V or 5V to the target. Unlike the <a href="https://github.com/MCUdude/microUPDI">microUPDI programmer</a>, this programmer supports the AVR-DA, AVR-DB, and AVR-DD series as well. It's also significantly faster than the microUPDI.</p>
