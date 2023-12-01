@@ -2,7 +2,10 @@ this SerialUPDI-programmer uses the CH340N USB to Serial chip
 from the chinese manufaturer "WCH"  
 https://www.wch.cn (mandarin)  
 https://www.wch-ic.com (english)  
-
+  
+product page: https://www.wch-ic.com/products/CH340.html  
+datasheet: 
+  
 It is sold almost exclusively in their own official shop on Aliexpress:  
 https://wchofficialstore.aliexpress.com  
 the chip:  
