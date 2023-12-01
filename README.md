@@ -141,4 +141,4 @@ what the SerialUPDI approach is all about, and why it is the successor to jtag2U
 <img src="pics/pic3.jpg" />
 <img src="pics/pic4.jpg" />
 <img src="pics/pic5.png" />
-<img src="pics/SerialUPDI_R1_Schematic.png" />
+<img src="pics/SerialUPDI_R1_Schematic_2.png" />
