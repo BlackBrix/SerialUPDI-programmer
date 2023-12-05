@@ -16,7 +16,7 @@ choose the "color" CH340**N**
 <hr>
 
 ### Voltage Regulator
-as the 3.3V regulator a "MicrOne [ME6211C33](../docs/datasheets/ME6211C33.pdf)" is used in this design  
+for the 3.3V regulator a "MicrOne [ME6211C33](../docs/datasheets/ME6211C33.pdf)" is used in this design  
   
 as an alternative (easier to obtain e.g. from digikey) you may use the  
 "Richtek [RT9080-33GJ5](../docs/datasheets/RT9080.pdf)"
