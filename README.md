@@ -1,5 +1,5 @@
 # SerialUPDI-programmer
-A convenient UPDI programmer with automatic UART / UPDI selection Designed by [MCUdude](https://github.com/MCUdude) in Norway  
+A convenient UPDI programmer with automatic UART / UPDI selection Designed by [MCUdude](https://github.com/MCUdude) (Hans) in Norway  
 (you can buy it here: https://www.tindie.com/products/mcudude/serialupdi-programmer)  
 <hr>  
 There are also other approaches to realising a SerialUPDI adapter, like e.g.:<br>  
