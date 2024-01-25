@@ -7,7 +7,7 @@ There are also other approaches to realising a SerialUPDI adapter, like e.g.:<br
 <li><a href="https://github.com/BlackBrix/AVR-Programmer/tree/master/SerialUPDI_HV_Programmer">SerialUPDI-HV-Programmer</a></li>
 <li><a href="https://github.com/BlackBrix/tinyUPDI">tinyUPDI</a></li>
 <li><a href="https://github.com/BlackBrix/UPDI-USB-SERIAL">UPDI-USB-SERIAL</a></li>
-<li><a href="https://www.adafruit.com/product/5879">Adafruit new SerialUPDI LV adapter</a> (with USB-C / CH340E / AP2112K)</li>
+<li><a href="https://www.adafruit.com/product/5879">Adafruit's new SerialUPDI LV adapter "UPDI Friend"</a> (with USB-C / CH340E / AP2112K)</li>
 <li><a href="https://www.facebook.com/adafruitindustries/posts/pfbid0yZC4EiRVcFa7jaTvnwEeRmVsJKAEUtLLCXMT1xMuVpeAXi5uwuVmAa3XUmftpULKl">Adafruit plans for a SerialUPDI HV adapter</a>
 </ul>
 what the SerialUPDI approach is all about, and why it is the successor to jtag2UPDI:<br>
